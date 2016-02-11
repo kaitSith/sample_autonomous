@@ -1,0 +1,25 @@
+{
+  "name": "env-riotjs",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    ""
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kaitSith/env_riotjs",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "highlight": "^9.1.0",
+    "highlightjs": "^9.1.0",
+    "material-design-lite": "^1.0.6"
+  }
+}
